@@ -1,0 +1,10 @@
+lib/
+  - src/
+    - models/
+    - api/
+    - auth/
+      - intercepters for dio
+    - client -> root dio client 
+
+  - client.dart -> contains exported files
+pubspec.yaml
